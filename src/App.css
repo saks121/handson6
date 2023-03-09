@@ -7,10 +7,10 @@
   padding: 2px;
   height: 55px;
   background-color: blue;
-  color:antiquewhite;
+  color: antiquewhite;
   display: flex;
-  justify-content: space-between;
-  font-size: 33px;
+  justify-content: space-around;
+  font-size: 30px;
   position: absolute;
   left: 6px;
   top: 15px;

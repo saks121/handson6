@@ -6,8 +6,7 @@ import { Link } from 'react-router-dom';
 
 export default function Student() {
   const [dataval] = useContext(s);
-  console.log("Stu Data:",dataval);
-  return (
+   return (
     <div>
       <NavBar />
       <div className='table-stu'>

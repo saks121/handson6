@@ -85,7 +85,7 @@ export default function ContextData(props) {
       }
 
     ]);
-    console.log(typeof(data));
+  
   return (
     <div>
       <s.Provider value={[data,setData]}>
